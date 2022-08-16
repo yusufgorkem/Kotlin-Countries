@@ -9,7 +9,7 @@ Tap on one of countries and see the country details. <br/> <br/>
 
 ## **Used**
 
-### MVVM, Live Data, SQLite-Room, Data Binding, Retrofit, RxJava ,Coroutines <br/> <br/>
+### MVVM, SQLite-Room, Live Data, Data Binding, Retrofit, RxJava ,Coroutines <br/> <br/>
 
 ## **Screenshots**
 
